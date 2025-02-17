@@ -1,0 +1,166 @@
+
+body, h1, p {
+    font-family: Arial, sans-serif;
+}
+body {
+    text-align: center;
+    color: white;
+}
+header {
+    display: flex;
+    align-items: center;
+    padding: 15px 20px;
+    background: white;
+    width: 100%;
+}
+.logo {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+nav a {
+    font-size: 20px;
+    margin-left: 10px;
+    color: black;
+}
+.num1 {
+    background: url(../../Downloads/unnamed.jpg); height: 300px; width: 1000px; 
+    display: flex;
+    text-align: center; 
+}
+.num2 {
+    height: 100px;
+}
+.num1 h1 {
+    font-size: 36px;
+}
+.num1 p {
+    font-size: 18px;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+.flower{
+    display: flex; margin: 40px; padding: 40px; background-color: lightcoral;
+}
+.num3 p{
+    color: white;
+}
+h2 {
+    text-align: center;
+    color: #333;
+}
+
+.image img{
+    height: 300px;
+    width: 600px;
+    display: flex;
+    align-items: center;
+}
+
+.content img {
+    width: 300px;
+    border-radius: 10px;
+}
+
+.a {
+    flex: 1;
+}
+
+h3 {
+    color: #28a745;
+}
+
+ol {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 15px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+.contact {
+    display: flex;
+    margin-top: 20px;
+}
+
+.contact-info {
+    width: 45%;
+    text-align: left;
+    padding: 20px;
+}
+
+.contact-info h3 {
+    color: #d81b60;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+.contact-info a {
+    color: red;
+}
+
+.links  img {
+    width: 24px;
+    margin: 5px;
+}
+
+.contact-form {
+    width: 25%;
+    padding: 20px;
+    background-color: #f9f9f9;
+}
+
+.contact-form h3 {
+    color: #333;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+}
+
+.contact-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #d81b60;
+    color: #fff;
+}
+
+.contact-form button:hover {
+    background-color: #b7154c;
+}
+
+.moon{
+    display: flex;
+    background-color: lightblue;
+}
+.sun{
+    padding-left: 200px;
+}
+.moon1 img{
+    height: 40px; width: 40px; 
+}
+.moon1{
+    padding-left: 160px;
+}
